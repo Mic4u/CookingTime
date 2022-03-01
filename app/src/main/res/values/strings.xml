@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">CookingTime</string>
+    <string name="start">Rozpocznij</string>
+    <string name="eaters">Liczba osób</string>
+    <string name="next">Dalej</string>
+    <string name="ingredients">Składniki</string>
+
+    <string name="zap">Zapiekanka z mikrofali</string>
+    <string name="nut">Kanapka z nutellą</string>
+
+
+
+</resources>
